@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .container {
-	width: 880px;
+	width: 90%;
 	margin: 0 auto;
   }
 
@@ -152,7 +152,7 @@ header nav a {
 }
 
 .main-content .bottom-content .text-content {
-	width: 275px;
+	width: 100%;
 	display: inline-block;
     margin-right: 12px;
     padding-right: 60px;
@@ -196,7 +196,7 @@ header nav a {
 
     header nav {
 
-        width: 800px;
+        width: 100%;
         display: flex;
         flex: wrap;      
         margin: 10px;  
@@ -263,20 +263,20 @@ header nav a {
       }
 
     header {
-        width: 400px;
+        width: 100%;
         display: flex;
         margin-top: 15px;
     }
 
     header nav {
-        width: 400px;
+        width: 100%;
         display: flex;
         flex-wrap: wrap-reverse;
         border-bottom: 2px solid rgb(189, 179, 179);
     }
 
     header nav a {
-        width: 400px;
+        width: 100%;
         border-top: 2px solid rgb(189, 179, 179);
         margin: 0px;
         padding: 20px 50px 20px 50px;
@@ -284,24 +284,24 @@ header nav a {
     }
     .main-content .middle-img {
         height: 163px;
-        width: 448px;
+        width: 100%;
   }
   .top-content {
     margin: 17px;
     display:flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 400px;
+    width: 100%;
  }
  .bottom-content {
     margin: 17px;
     display:flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 400px;
+    width: 100%;
  }
  .main-content .bottom-content .text-content {
-    width: 400px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
